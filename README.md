@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Utsav Acharya 👋  
 
-<!--
-**utasar/utasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Major** at Wright State University  
+🌱 Currently learning **High-Performance Computing Systems**  
+💡 Passionate about problem-solving, open-source contributions, and system optimization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+
+### 🔹 [Smart Scheduler](#)  
+A command-line based task scheduler built with Java.  
+- Helps students organize assignments and deadlines  
+- Includes features for reminders and priority sorting  
+
+### 🔹 [Weather Dashboard](#)  
+A web app that fetches and displays real-time weather data.  
+- Built using HTML, CSS, JavaScript, and APIs  
+- Interactive design with location-based search  
+
+---
+
+## 📫 Connect with Me  
+- **Email:** acharya.41@wright.edu  
+- **GitHub:** [utasar](https://github.com/utasar)  
+
+---
+
+⭐ *Always learning, always building.*  
