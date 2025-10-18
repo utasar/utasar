@@ -4,89 +4,72 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utsav Acharya</h1>
-<p align="center">
-  <em>Learner & Beginner | Open Source Enthusiast | Student</em>
-</p>
 
-<!-- Quick Info -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-USA-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Student-Scholarship-success?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/utasar?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/twitter/follow/acharyautsav64?style=social" />
-  <img src="https://img.shields.io/badge/Portfolio-www.utsavacharya.com.np-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Major-Computer%20Science-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Student-Wright%20State%20University-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-High%20Performance%20Computing%20Systems-purple?style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack & Skills</h2>
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Web</b></td>
-    <td align="center"><b>Other</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-yellow?logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Assembly-gray?logoColor=white" />
-      <img src="https://img.shields.io/badge/Shell-green?logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-brightgreen?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web%20Projects-10%2B-blue?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Open%20Source-Active-blue?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Learning%20New%20Tech-Every%20Day-yellow?style=flat-square" />
-    </td>
-  </tr>
-</table>
+## About Me
+
+I am a Computer Science major and Technology First Scholar (2025) at Wright State University.  
+I am passionate about high performance computing systems and enjoy building solutions that are efficient and scalable.
 
 ---
 
-<h2 align="center">📦 Featured Projects</h2>
-<p align="center">
+## 📚 Projects for This Semester
+
+### 1. Hospital Management System
+A web-based application designed to streamline hospital operations including patient records, appointment scheduling, and administrative tasks. This project utilizes JavaScript, HTML, and CSS for the frontend and aims to simplify workflows for small clinics.
+
+### 2. Notes App
+A cross-platform notes application to help students organize assignments, track deadlines, and manage coursework. The app includes features such as tagging, searching, and cloud sync using JavaScript and HTML.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Programming Languages:** Java, Python, JavaScript, HTML, CSS, Assembly, Shell, PHP
+- **Web Technologies:** Frontend development with HTML, CSS, JavaScript
+- **Other Interests:** Open source, learning new tech, high performance computing systems
+
+---
+
+## 🌟 Featured Projects
+
+<p align="left">
   <a href="https://github.com/utasar/counter"><img src="https://img.shields.io/badge/Counter-HTML-green?style=flat-square" /></a>
   <a href="https://github.com/utasar/TODO"><img src="https://img.shields.io/badge/TODO-JavaScript-yellow?style=flat-square" /></a>
-  <a href="https://github.com/utasar/Utsav-Acharya"><img src="https://img.shields.io/badge/Utsav%20Acharya-HTML-orange?style=flat-square" /></a>
-  <a href="https://github.com/utasar/vibing"><img src="https://img.shields.io/badge/Vibing-Assembly-gray?style=flat-square" /></a>
-  <a href="https://github.com/utasar/date"><img src="https://img.shields.io/badge/Date-CSS-blue?style=flat-square" /></a>
-  <br />
-  <a href="https://github.com/utasar/WEather-"><img src="https://img.shields.io/badge/Weather-App-green?style=flat-square" /></a>
-  <a href="https://github.com/utasar/Practice-java-1"><img src="https://img.shields.io/badge/Practice%20Java-Java-yellow?style=flat-square" /></a>
-  <a href="https://github.com/utasar/Python-"><img src="https://img.shields.io/badge/Python%20Practice-Python-blue?style=flat-square" /></a>
   <a href="https://github.com/utasar/hospital-management"><img src="https://img.shields.io/badge/Hospital%20Management-JS-green?style=flat-square" /></a>
   <a href="https://github.com/utasar/NOtes-app"><img src="https://img.shields.io/badge/Notes%20App-JavaScript-yellow?style=flat-square" /></a>
+  <a href="https://github.com/utasar/Python-"><img src="https://img.shields.io/badge/Python%20Practice-Python-blue?style=flat-square" /></a>
+  <a href="https://github.com/utasar/Practice-java-1"><img src="https://img.shields.io/badge/Practice%20Java-Java-yellow?style=flat-square" /></a>
+  <a href="https://github.com/utasar/vibing"><img src="https://img.shields.io/badge/Vibing-Assembly-gray?style=flat-square" /></a>
+  <a href="https://github.com/utasar/date"><img src="https://img.shields.io/badge/Date-CSS-blue?style=flat-square" /></a>
+  <!-- Add more as you wish! -->
 </p>
-<p align="center">
-  <a href="https://github.com/utasar?tab=repositories">🌟 See all my 41 projects!</a>
-</p>
-
----
-
-<h2 align="center">🗺️ My Journey</h2>
-<p align="center">
-  <!-- You can add a custom SVG timeline here (e.g., assets/timeline.svg) -->
-  <em>
-    <br/>2022: Started my GitHub journey<br/>
-    2023+: Building projects, learning new skills<br/>
-    2025: Seeking internships and opportunities!
-  </em>
+<p>
+  <a href="https://github.com/utasar?tab=repositories">See all my projects</a>
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://twitter.com/acharyautsav64"><img src="https://img.shields.io/twitter/follow/acharyautsav64?style=social" /></a>
-  <a href="https://www.utsavacharya.com.np"><img src="https://img.shields.io/badge/Portfolio-www.utsavacharya.com.np-orange?style=flat-square" /></a>
-</p>
+## 📈 My Journey
+
+- **2022:** Started my GitHub journey
+- **2023:** Built multiple web and programming projects, expanded skillset
+- **2025:** Technology First Scholar; focused on high performance computing and seeking new opportunities
+
+---
+
+## 🌐 Connect with Me
+
+- Portfolio: [www.utsavacharya.com.np](https://www.utsavacharya.com.np)
+- Twitter: [@acharyautsav64](https://twitter.com/acharyautsav64)
+- GitHub: [https://github.com/utasar](https://github.com/utasar)
 
 ---
 
@@ -94,7 +77,9 @@
   <em>“Code, learn, repeat. Let’s build something amazing together!”</em>
 </p>
 
-<!-- Visitor Badge (optional) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utasar&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
+
+---
+
