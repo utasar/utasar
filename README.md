@@ -23,10 +23,12 @@ I am passionate about high performance computing systems and enjoy building solu
 ## 📚 Projects for This Semester
 
 ### 1. Hospital Management System
-A web-based application designed to streamline hospital operations including patient records, appointment scheduling, and administrative tasks. This project utilizes JavaScript, HTML, and CSS for the frontend and aims to simplify workflows for small clinics.
+A web-based application designed to streamline hospital operations including patient records, appointment scheduling, and administrative tasks. This project utilizes JavaScript, HTML, and CSS for the frontend and aims to simplify workflows for small clinics.  
+**Upcoming Feature:** Integrating AI to recommend the best doctor and medical care to patients efficiently and at the right time.
 
 ### 2. Notes App
-A cross-platform notes application to help students organize assignments, track deadlines, and manage coursework. The app includes features such as tagging, searching, and cloud sync using JavaScript and HTML.
+A cross-platform notes application to help students organize assignments, track deadlines, and manage coursework. The app includes features such as tagging, searching, and cloud sync using JavaScript and HTML.  
+**Upcoming Feature:** Adding AI-powered functionalities to help students organize notes, get personalized study reminders, and generate summaries for better learning.
 
 ---
 
@@ -82,4 +84,3 @@ A cross-platform notes application to help students organize assignments, track 
 </p>
 
 ---
-
