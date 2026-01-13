@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Utsav%20Acharya&fontSize=40&animation=twinkling" alt="Utsav Acharya Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Utsav Acharya</h1>
+<h1 align="center">Hi , I'm Utsav Acharya</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Major-Computer%20Science-blue?style=flat-square" />
@@ -20,7 +20,7 @@ I am passionate about high performance computing systems and enjoy building solu
 
 ---
 
-## 📚 Projects for This Semester
+##  Projects for This Semester
 
 ### 1. Hospital Management System
 A web-based application designed to streamline hospital operations including patient records, appointment scheduling, and administrative tasks. This project utilizes JavaScript, HTML, and CSS for the frontend and aims to simplify workflows for small clinics.  
@@ -32,7 +32,7 @@ A cross-platform notes application to help students organize assignments, track 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 - **Programming Languages:** Java, Python, JavaScript, HTML, CSS, Assembly, Shell, PHP
 - **Web Technologies:** Frontend development with HTML, CSS, JavaScript
@@ -40,7 +40,7 @@ A cross-platform notes application to help students organize assignments, track 
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <p align="left">
   <a href="https://github.com/utasar/counter"><img src="https://img.shields.io/badge/Counter-HTML-green?style=flat-square" /></a>
@@ -59,7 +59,7 @@ A cross-platform notes application to help students organize assignments, track 
 
 ---
 
-## 📈 My Journey
+##  My Journey
 
 - **2022:** Started my GitHub journey
 - **2023:** Built multiple web and programming projects, expanded skillset
@@ -67,7 +67,7 @@ A cross-platform notes application to help students organize assignments, track 
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - Portfolio: [www.utsavacharya.com.np](https://www.utsavacharya.com.np)
 - Twitter: [@acharyautsav64](https://twitter.com/acharyautsav64)
