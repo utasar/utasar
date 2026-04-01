@@ -1,1 +1,44 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=header&text=Utsav%20Acharya&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Utsav Acharya" /></div><br/><h1 align="center">👨‍💻 Utsav Acharya</h1><p align="center"><b>Computer Science Major • High Performance Computing Enthusiast • Full-Stack Developer</b></p><p align="center"><img src="https://img.shields.io/badge/CS-Wright%20State%20University-blue?style=flat-square" />&nbsp;<img src="https://img.shields.io/badge/Scholar-Technology%20First%202025-green?style=flat-square" />&nbsp;<img src="https://img.shields.io/badge/Focus-HPC%20%26%20Systems-purple?style=flat-square" /></p><p align="center"><a href="https://github.com/utasar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>&nbsp;<a href="https://www.utsavacharya.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B7285?style=flat-square&logo=globe" /></a>&nbsp;<a href="https://twitter.com/acharyautsav64" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a></p><br/><hr/><h2>❖ About</h2><p>Computer Science major and Technology First Scholar (2025) at Wright State University. I'm passionate about building <b>scalable, efficient systems</b> and exploring <b>high-performance computing</b>. My focus is on creating production-grade solutions that combine robust backend architecture with intelligent AI integration.</p><p>I believe in <b>learning by building</b> — every project teaches me something new about system design, performance optimization, and real-world problem solving.</p><br/><h2>❖ Featured Projects</h2><table><tr><td width="50%" valign="top"><h3>🏥 <a href="https://github.com/utasar/hospital-management-system-php-mysql-demo">AI Dr. Care</a></h3><p><b>AI-Powered Hospital Management System</b></p><p>Enterprise-grade healthcare platform with AI symptom analysis, vital signs tracking, and doctor recommendations. Features HIPAA/GDPR compliance, secure data encryption, and ML-powered health predictions.</p><p><strong>Tech Stack:</strong> PHP 7.4+, MySQL, Python ML Service, JavaScript, Chart.js</p><p><strong>Key Features:</strong></p><ul><li>AI Symptom Analysis & Diagnosis</li><li>Vital Signs Monitoring with Health Alerts</li><li>Smart Doctor Recommendation System</li><li>Patient Records Management</li><li>Secure Authentication & Audit Logging</li></ul><a href="https://github.com/utasar/hospital-management-system-php-mysql-demo"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="20" /></a></td><td width="50%" valign="top"><h3>📚 <a href="https://github.com/utasar/NOtes-app">NOtes App</a></h3><p><b>AI-Driven Learning Assistant</b></p><p>Modern full-stack notes application with AI-powered features. Includes smart summarization, question generation, personalized study guidance, and analytics dashboard. Built for students to study smarter.</p><p><strong>Tech Stack:</strong> Node.js, Express, MongoDB, OpenAI API, JWT, Vanilla JS</p><p><strong>Key Features:</strong></p><ul><li>AI-Powered Notes Organization</li><li>Adaptive Study Recommendations</li><li>AI Quiz Generation & Tracking</li><li>GuiderAI - 24/7 Virtual Teacher</li><li>Progress Analytics Dashboard</li></ul><a href="https://github.com/utasar/NOtes-app"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="20" /></a></td></tr><tr><td width="50%" valign="top"><h3>🖥️ <a href="https://github.com/utasar/hospital-management">Hospital Management System</a></h3><p><b>Full-Stack Web Application</b></p><p>Comprehensive hospital operations management system. Handles patient records, doctor scheduling, staff management, and administrative workflows to optimize operational efficiency.</p><p><strong>Tech Stack:</strong> JavaScript, HTML5, CSS3, Backend Infrastructure</p><p><strong>Key Features:</strong></p><ul><li>Patient Record Management</li><li>Doctor & Staff Scheduling</li><li>Appointment Management</li><li>Workflow Optimization</li></ul><a href="https://github.com/utasar/hospital-management"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="20" /></a></td><td width="50%" valign="top"><h3>⚙️ <a href="https://github.com/utasar/CEG-2350---OS-Concepts-and-Usage-Utsav_FALL_2025">OS Concepts & Systems</a></h3><p><b>Operating Systems Coursework</b></p><p>Practical coursework demonstrating deep understanding of OS concepts. Covers command-line navigation, system administration, process management, and shell scripting — foundations for HPC systems.</p><p><strong>Tech Stack:</strong> PowerShell, Linux/Unix, Shell Scripting</p><p><strong>Topics Covered:</strong></p><ul><li>System Architecture</li><li>Process Management</li><li>File Systems</li><li>Command-Line Tools</li></ul><a href="https://github.com/utasar/CEG-2350---OS-Concepts-and-Usage-Utsav_FALL_2025"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" height="20" /></a></td></tr></table><br/><h2>❖ Tech Stack & Skills</h2><table><tr><td><b>Languages</b></td><td>Java, Python, JavaScript, PHP, Assembly, Shell, HTML/CSS</td></tr><tr><td><b>Backend</b></td><td>Node.js, Express, PHP, MySQL, MongoDB</td></tr><tr><td><b>Frontend</b></td><td>HTML5, CSS3, JavaScript, Responsive Design</td></tr><tr><td><b>AI/ML</b></td><td>OpenAI API, Pattern Matching, Health Analytics</td></tr><tr><td><b>Systems</b></td><td>Linux, OS Concepts, Performance Optimization, HPC</td></tr><tr><td><b>Tools</b></td><td>Git, GitHub, Docker (basics), Database Design</td></tr></table><br/><h2>❖ Operating Principles</h2><ul><li><b>Build Real Solutions:</b> Every project solves an actual problem</li><li><b>Performance Matters:</b> Efficiency and scalability are non-negotiable</li><li><b>Security First:</b> Protecting user data is fundamental (HIPAA/GDPR)</li><li><b>Clean Code:</b> Well-documented, maintainable, production-ready code</li><li><b>Continuous Learning:</b> Staying ahead in HPC and modern tech</li></ul><br/><h2>❖ My Journey</h2><ul><li><b>2022:</b> Started GitHub journey, building web projects</li><li><b>2023:</b> Expanded skillset, multiple full-stack projects</li><li><b>2025:</b> Technology First Scholar, focused on HPC systems and AI integration</li></ul><br/><h2>❖ Let's Connect</h2><p align="center">Always open to collaboration, interesting conversations, or ambitious projects.</p><p align="center"><a href="https://www.utsavacharya.com.np">🌐 Portfolio</a>&nbsp;•&nbsp;<a href="https://github.com/utasar">💻 GitHub</a>&nbsp;•&nbsp;<a href="https://twitter.com/acharyautsav64">🐦 Twitter</a>&nbsp;•&nbsp;<a href="mailto:acharya.41@wright.edu">📧 Email</a></p><br/><div align="center"><p><i>"Build systems that last. Ship code that matters."</i></p><img src="https://komarev.com/ghpvc/?username=utasar&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" /></div><hr/>
+# Updated README for 2026
+
+## 2026 Journey
+As of 2026, I am actively seeking professional experience with a focus on real-world work applications and an internship search.
+
+## Professional Experience
+### Math Tutor
+**Wright State University**  
+*January 2025 - Present*  
+- Providing personalized tutoring in mathematics to support students' academic success.
+
+## Programming Languages
+I am proficient in the following programming languages, along with links to actual projects:
+- **Java**: [Project Links](url-to-java-projects)
+- **Python**: [Project Links](url-to-python-projects)
+- **JavaScript**: [Project Links](url-to-javascript-projects)
+- **C++**: [Project Links](url-to-cpp-projects)
+- **C**: [Project Links](url-to-c-projects)
+- **PHP**: [Project Links](url-to-php-projects)
+- **Shell**: [Project Links](url-to-shell-projects)
+- **Assembly**: [Project Links](url-to-assembly-projects)
+- **TypeScript**: [Project Links](url-to-typescript-projects)
+- **QuickBASIC**: [Project Links](url-to-quickbasic-projects)
+- **HTML/CSS**: [Project Links](url-to-html-css-projects)
+
+### Organized Projects by Language
+- **Java Projects**: [Java Project List]
+- **Python Projects**: [Python Project List]
+- **JS Projects**: [JavaScript Project List]
+
+### Latest Activity
+- **Java**: 65 commits
+- **DSA Projects**
+- **Doreamon Projects**
+
+### Coursework from WSU-kduncan Organization
+- [Coursework Listing]
+
+### Active Projects and Innovation Focus
+I am currently working on several active projects with a focus on innovation and applying technical skills.
+
+---
+
+This README aims to reflect my journey and professional tone while being authentic about my status in 2026 as I seek meaningful experiences in my field.
